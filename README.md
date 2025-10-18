@@ -111,6 +111,6 @@ If you plan to redistribute, consider adding a `LICENSE` file.
 
 This project is licensed under the MIT License.
 
-   **❤️ Made with love: Zaynab Marzak**
+   **❤️ Made with love: Zaynab**
 
 
