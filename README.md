@@ -101,7 +101,6 @@ Contributions are welcome — especially:
 * Security refinements
 * Test automation for `secureRandomIndex()`
 
-If you plan to redistribute, consider adding a `LICENSE` file.
 
 ---
 
